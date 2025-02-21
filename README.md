@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChUmerAmjad&theme=github-compact&days=30&grid=true&bg_color=0000&hide_border=true&line=4493f8&point=fff&custom_title=Last%2030%20Days%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!--
 **ChUmerAmjad/ChUmerAmjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
